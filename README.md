@@ -1,0 +1,2 @@
+# NewJavaProject
+new repository
